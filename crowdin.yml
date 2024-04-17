@@ -5,4 +5,4 @@ preserve_hierarchy: false
 files:
     - source: /assets/i18n/strings.i18n.json
       translation: /assets/i18n/strings_%locale_with_underscore%.i18n.json
-      skip_untranslated_strings: true
+      skip_untranslated_strings: trueee
